@@ -1,0 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+CPE007 filter=lfs diff=lfs merge=lfs -text
+MATH006 filter=lfs diff=lfs merge=lfs -text
+PE001 filter=lfs diff=lfs merge=lfs -text
